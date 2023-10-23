@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Feed the Dogs",
+      "date": "Oct 25, 2023 at 7:00 AM",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Get Rich",
+      "date": "Dec 02, 2023 at 1:00 AM",
+      "reminder": true
+    },
+    {
+      "text": "Die Trying",
+      "date": "Dec 02, 2024 at 1:00 AM",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
